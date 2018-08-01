@@ -1,6 +1,13 @@
-sfdjhFSDjhFShfSvchj
+<<<<<<< .mine
 scbSABckjS
 snbdmsnbcjsa
 gfjfkh
 gfmjhfkg
 khikjmnvjh
+=======
+
+
+
+
+
+>>>>>>> .theirs
